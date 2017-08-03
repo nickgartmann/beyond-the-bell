@@ -1,0 +1,14 @@
+{
+  "name": "beyond-the-bell",
+  "version": "0.1.0",
+  "description": "Access data from the Beyond the Bell dataset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Gartmann <nick@rokkincat.com>",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.5.0"
+  }
+}
