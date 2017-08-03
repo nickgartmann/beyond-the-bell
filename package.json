@@ -6,8 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/nickgartmann/beyond-the-bell",
+  "bugs": "https://github.com/nickgartmann/beyond-the-bell/issues",
   "author": "Nick Gartmann <nick@rokkincat.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickgartmann/beyond-the-bell.git"
+  },
   "dependencies": {
     "airtable": "^0.5.0",
     "elasticlunr": "^0.9.5"
