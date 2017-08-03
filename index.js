@@ -1,7 +1,5 @@
-var Airtable = require("airtable");
-
 module.exports = {
-  Organizations: require("./organization"),
-  Locations: require("./location"),
-  Categories: require("./category") 
+  Organizations: require("./src/organization"),
+  Locations: require("./src/location"),
+  Categories: require("./src/category")
 }
